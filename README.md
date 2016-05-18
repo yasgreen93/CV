@@ -1,13 +1,13 @@
 ## Yasmin Green
 
-I am a former forensic scientist, and am excited to start career as a web developer with a drive for learning. I attended Makers Academy studying web development as I love being creative and solving problems. In those twelve weeks I developed a passion in test-driven, clean and refactored code, object-orientated design, Nutella and ping pong. I am searching for a junior developer job with opportunities to learn, a fun atmosphere and some more ping pong.
+I am a former forensic scientist, and am excited to a start career as a web developer with a drive for learning. I attended Makers Academy studying web development as I love being creative and solving problems. In those twelve weeks I developed a passion in clean test-driven code, object-orientated design, Nutella and ping pong. I am searching for a junior developer job with opportunities to learn, a fun atmosphere and some more ping pong.
 
 
 ## Skills
 
 #### Mentoring
 
-I thoroughly enjoyed the mentoring system at Makers Academy. I love helping someone understand a concept and to see them get excited when the cogs suddenly click into place, the lightbulb switches on and the smile appears on their face! After offering my help multiple times to many people I found myself being approached again and again. This made me really happy in that I could offer more help but more importantly that they felt I gave good enough advice for them to ask me again.
+I thoroughly enjoyed the mentoring system at Makers Academy. I loved helping my mentee understand a concept and to see them get excited when the cogs suddenly click into place, the lightbulb switches on and the smile appears on their face! After offering my help multiple times to many people I found myself being approached again and again. This made me really happy in that I could offer more help but more importantly that they felt I gave good enough advice for them to ask me again.
 
 #### Fast learner
 
