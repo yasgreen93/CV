@@ -1,29 +1,24 @@
-## Your Name
+## Yasmin Green
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a former Forensic Scientist, and am excited to start career as a web developer with a drive for learning. I recently completed bootcamp at Makers Academy going from only knowing the very basics of the Ruby language to building fully functional websites with multiple coding languages and frameworks in twelve weeks.
 
 ## Skills
 
-#### This Skill
+#### Communication and approachability
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Communication is incredibly important and I am confident in communicating my thoughts whether it be revealing that I do not understand something, something I feel like my team or I could improve on, or areas that went well. In addition I try to encourage my team members to communicate more by giving them a safe space to talk about their thoughts.
 
-- Experience
-- Achievements
-- Evidence
+In the two week final project at Makers Academy I worked in a team of three. During that time I established stand up sessions in the morning and feedback sessions at the end of every day. This allowed us to create a solid project in which every team member contributed to and learned from. This project can be found [here](https://github.com/yasgreen93/social-calendar.git).
 
-#### Another Skill
+One of the core fundamentals taught at Makers Academy is pair programming and everyday I was pairing with a different person. To ensure that my pair partner had the best pairing experience with myself, multiple times during the day I would encourage feedback sessions asking if there was anything in particular I could improve on to better their experience.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Fast learner
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+For the Makers Academy final project five weeks into learning JavaScript, I completed a project in full stack JavaScript including Angular, Node.js and Express. Node.js was not taught on the course and I managed to learn and build a fully functioning website with 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (February 2015 to May 2015)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -32,13 +27,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### University of Lincoln (2012 to 2015)
 
-- Subject, any specialisms
-- Grade
+- Forensic Science BSc
+- 1st Class Honours
 - Other cool stuff
 
-#### Any other qualifications
+#### Hobbies and interests
+One of my biggest passions is music. I have had lessons in the piano and trumpet and have taught myself the guitar.
 
 ## Experience
 
