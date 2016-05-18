@@ -1,10 +1,10 @@
 ## Yasmin Green
 
-[Skills](#Skills) | [Education](#Education) | [#Hobbies and Interests](Hobbies and Interests) | [Experience](#Experience) 
+[Skills](#Skills) | [Education](#Education) | [Hobbies and Interests](#Hobbies) | [Experience](#Experience)
 
 I am a former Forensic Scientist, and am excited to a start career as a web developer with a drive for learning. I attended Makers Academy studying web development as I love being creative and solving problems. In those twelve weeks I developed a passion in clean test-driven code, object-orientated design, Nutella and ping pong. I am searching for a junior developer job with opportunities to learn, a fun atmosphere and some more ping pong.
 
-## Skills
+## <a name="skills">Skills</a>
 
 #### Mentoring
 
@@ -18,7 +18,7 @@ For the Makers Academy final project five weeks into learning JavaScript, I comp
 
 A fundamental skill of being a forensic scientist is analysing the smallest amount of evidence and extracting a large amount of information from it. I perceive situations from multiple perspectives in which other people may not see. This allows me to ask difficult questions as I am naturally inquisitive, and this helps me to get to the core of the problem.
 
-## Education
+## <a name="Education">Education</a>
 
 #### Makers Academy (February 2016 to May 2016)
 
@@ -49,12 +49,13 @@ A twelve week bootcamp which focuses on:
 
 * Forensic Science BSc, 1st class honours.
 
-## Hobbies and interests
+## <a name="Hobbies">Hobbies and interests</a>
+
 One of my biggest passions is music. I have had lessons in the piano and trumpet and have taught myself the guitar. I also enjoy making my own instrumental music.
 
 A second interest is sport, in particular hockey and tennis. I have played hockey for the 1st team at university and at the schools I attended.
 
-## Experience
+## <a name="Experience">Experience</a>
 
 **Terra Firma Capital Partners** (June 2013 to July 2013)  
 In 6 weeks I organised a disordered music library of 4000+ records, a project that had been stalled for an extensive period of time.
