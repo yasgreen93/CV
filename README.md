@@ -1,6 +1,6 @@
 ## Yasmin Green
 
-I am a former forensic scientist, and am excited to start career as a web developer with a drive for learning. I attended Makers Academy studying web development as I love being creative and solving problems. In those twelve weeks I developed a passion in test-driven, clean and refactored code, object-orientated design, Nutella and ping pong. I am searching for a junior developer job with opportunities to learn, a fun atmosphere and also some more ping pong.
+I am a former forensic scientist, and am excited to start career as a web developer with a drive for learning. I attended Makers Academy studying web development as I love being creative and solving problems. In those twelve weeks I developed a passion in test-driven, clean and refactored code, object-orientated design, Nutella and ping pong. I am searching for a junior developer job with opportunities to learn, a fun atmosphere and some more ping pong.
 
 
 ## Skills
