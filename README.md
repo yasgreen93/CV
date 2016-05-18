@@ -18,18 +18,12 @@ For the Makers Academy final project five weeks into learning JavaScript, I comp
 
 #### Makers Academy (February 2015 to May 2015)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+* A twelve week bootcamp which focuses on pair programming,
 
 #### University of Lincoln (2012 to 2015)
 
 - Forensic Science BSc
 - 1st Class Honours
-- Other cool stuff
 
 #### Hobbies and interests
 One of my biggest passions is music. I have had lessons in the piano and trumpet and have taught myself the guitar.
