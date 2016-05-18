@@ -2,7 +2,6 @@
 
 I am a former forensic scientist, and am excited to a start career as a web developer with a drive for learning. I attended Makers Academy studying web development as I love being creative and solving problems. In those twelve weeks I developed a passion in clean test-driven code, object-orientated design, Nutella and ping pong. I am searching for a junior developer job with opportunities to learn, a fun atmosphere and some more ping pong.
 
-
 ## Skills
 
 #### Mentoring
@@ -15,7 +14,7 @@ For the Makers Academy final project five weeks into learning JavaScript, I comp
 
 #### Attention to detail
 
-A fundamental skill of being a forensic scientist is attention to detail and having to analyse
+A fundamental skill of being a forensic scientist is analysing the smallest amount of evidence and extracting a large amount of information from it.
 
 ## Education
 
@@ -28,7 +27,14 @@ A twelve week bootcamp which focuses on:
 * Behaviour driven development
 * Agile Methodologies
 
-**Projects include:**
+**A few projects include:**
+
+| Name | Description | Technologies | Testing |
+|------|-------------|--------------|---------|
+|[**Slinks**](https://github.com/yasgreen93/slinks.git)| Allows you store links posted in Slack to later access at your leisure | AngularJS, NodeJS, Express, Postgres, Sequelize | Karma, Protractor|
+|[**MakersBnB**](https://github.com/yasgreen93/makers_bnb.git)||||
+|[**Chitter**](https://github.com/yasgreen93/chitter-challenge)|A clone of Twitter which allows you to sign up/in and leave peeps!|Ruby, Sinatra, jQuery|RSpec, Capybara|
+
 
 
 #### Shillington College (September 2015 to December 2015)
