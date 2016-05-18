@@ -14,7 +14,7 @@ For the Makers Academy final project five weeks into learning JavaScript, I comp
 
 #### Attention to detail
 
-A fundamental skill of being a forensic scientist is analysing the smallest amount of evidence and extracting a large amount of information from it.
+A fundamental skill of being a forensic scientist is analysing the smallest amount of evidence and extracting a large amount of information from it. I perceive situations from multiple perspectives in which other people may not see. This allows me to ask difficult questions as I am naturally inquisitive, and this helps me to get to the core of the problem.
 
 ## Education
 
