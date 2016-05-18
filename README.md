@@ -31,8 +31,8 @@ For the Makers Academy final project five weeks into learning JavaScript, I comp
 * Forensic Science BSc, 1st class honours.
 * TALK ABOUT ATTENTION TO DETAIL AND METHODOLOGY*********
 
-#### Hobbies and interests
-One of my biggest passions is music. I have had lessons in the piano and trumpet and have taught myself the guitar.
+## Hobbies and interests
+One of my biggest passions is music. I have had lessons in the piano and trumpet and have taught myself the guitar. I also enjoy making my own instrumental music.
 
 ## Experience
 
