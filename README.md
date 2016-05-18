@@ -54,7 +54,7 @@ A second interest is sport, in particular hockey and tennis. I have played hocke
 
 ## Experience
 
-**Terra Firma** (start_date to end_date)
+**Terra Firma** (start_date to end_date)  
 In 6 weeks I organised a disordered music library of 4000+ records, a project that had been stalled for an extensive period of time.
 
 **Conifer Kennels** (start_date to end_date)   
