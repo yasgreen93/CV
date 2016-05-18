@@ -20,7 +20,7 @@ For the Makers Academy final project five weeks into learning JavaScript, I comp
 
 * A twelve week bootcamp which focuses on pair programming, ********
 
-### Shillington College (September 2015 to December 2015)
+#### Shillington College (September 2015 to December 2015)
 
 * An intense 12 week course on graphic design
 * Areas included both print design and web design
