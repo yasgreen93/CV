@@ -18,7 +18,15 @@ For the Makers Academy final project five weeks into learning JavaScript, I comp
 
 #### Makers Academy (February 2015 to May 2015)
 
-* A twelve week bootcamp which focuses on pair programming, ********
+A twelve week bootcamp which focuses on:
+* Pair programming
+* Object-orientated design
+* Test driven development
+* Behaviour driven development
+* Agile Methodologies
+
+**Projects include:**
+
 
 #### Shillington College (September 2015 to December 2015)
 
@@ -34,9 +42,15 @@ For the Makers Academy final project five weeks into learning JavaScript, I comp
 ## Hobbies and interests
 One of my biggest passions is music. I have had lessons in the piano and trumpet and have taught myself the guitar. I also enjoy making my own instrumental music.
 
+A second interest is in sport, in particular hockey and tennis. I have played hockey for the 1st team at university and at the schools I attended.
+
+I also completed my gold Duke of Edinburgh in **YEAR** which involved *******
+
 ## Experience
 
 **Terra Firma** (start_date to end_date)    
 Organising a music library of over 4000 records .... ********  
+
+
 **Conifer Kennels** (start_date to end_date)   
 Cleaning out the kennels and feeding and walking the dogs.
