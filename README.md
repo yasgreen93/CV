@@ -42,7 +42,7 @@ A twelve week bootcamp which focuses on:
 ## Hobbies and interests
 One of my biggest passions is music. I have had lessons in the piano and trumpet and have taught myself the guitar. I also enjoy making my own instrumental music.
 
-A second interest is in sport, in particular hockey and tennis. I have played hockey for the 1st team at university and at the schools I attended.
+A second interest is sport, in particular hockey and tennis. I have played hockey for the 1st team at university and at the schools I attended.
 
 I also completed my gold Duke of Edinburgh in **YEAR** which involved *******
 
