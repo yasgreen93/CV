@@ -1,5 +1,7 @@
 ## Yasmin Green
 
+[Skills](#Skills) | [Education](#Education) | [#Hobbies and Interests](Hobbies and Interests) | [Experience](#Experience) 
+
 I am a former Forensic Scientist, and am excited to a start career as a web developer with a drive for learning. I attended Makers Academy studying web development as I love being creative and solving problems. In those twelve weeks I developed a passion in clean test-driven code, object-orientated design, Nutella and ping pong. I am searching for a junior developer job with opportunities to learn, a fun atmosphere and some more ping pong.
 
 ## Skills
