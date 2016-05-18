@@ -1,6 +1,6 @@
 ## Yasmin Green
 
-I am a former forensic scientist, and am excited to a start career as a web developer with a drive for learning. I attended Makers Academy studying web development as I love being creative and solving problems. In those twelve weeks I developed a passion in clean test-driven code, object-orientated design, Nutella and ping pong. I am searching for a junior developer job with opportunities to learn, a fun atmosphere and some more ping pong.
+I am a former Forensic Scientist, and am excited to a start career as a web developer with a drive for learning. I attended Makers Academy studying web development as I love being creative and solving problems. In those twelve weeks I developed a passion in clean test-driven code, object-orientated design, Nutella and ping pong. I am searching for a junior developer job with opportunities to learn, a fun atmosphere and some more ping pong.
 
 ## Skills
 
@@ -32,7 +32,7 @@ A twelve week bootcamp which focuses on:
 | Name | Description | Technologies | Testing |
 |------|-------------|--------------|---------|
 |[**Slinks**](https://github.com/yasgreen93/slinks.git)| Allows you store links posted in Slack to later access at your leisure | AngularJS, NodeJS, Express, Postgres, Sequelize | Karma, Protractor|
-|[**MakersBnB**](https://github.com/yasgreen93/makers_bnb.git)||||
+|[**MakersBnB**](https://github.com/yasgreen93/makers_bnb.git)|A clone of AirBnb which allows you to view, request and book places to stay.|Ruby, Sinatra, JavaScript, jQuery, Postgres|RSpec, Capybara|
 |[**Chitter**](https://github.com/yasgreen93/chitter-challenge)|A clone of Twitter which allows you to sign up/in and leave peeps!|Ruby, Sinatra, jQuery|RSpec, Capybara|
 
 
@@ -46,20 +46,16 @@ A twelve week bootcamp which focuses on:
 #### University of Lincoln (2012 to 2015)
 
 * Forensic Science BSc, 1st class honours.
-* TALK ABOUT ATTENTION TO DETAIL AND METHODOLOGY*********
 
 ## Hobbies and interests
 One of my biggest passions is music. I have had lessons in the piano and trumpet and have taught myself the guitar. I also enjoy making my own instrumental music.
 
 A second interest is sport, in particular hockey and tennis. I have played hockey for the 1st team at university and at the schools I attended.
 
-I also completed my gold Duke of Edinburgh in **YEAR** which involved *******
-
 ## Experience
 
-**Terra Firma** (start_date to end_date)    
-Organising a music library of over 4000 records .... ********  
-
+**Terra Firma** (start_date to end_date)
+In 6 weeks I organised a disordered music library of 4000+ records, a project that had been stalled for an extensive period of time.
 
 **Conifer Kennels** (start_date to end_date)   
-Cleaning out the kennels and feeding and walking the dogs.
+Cleaning out the kennels as well as feeding, walking and most importantly cuddling the dogs.
