@@ -14,7 +14,7 @@ One of the core fundamentals taught at Makers Academy is pair programming and ev
 
 #### Fast learner
 
-For the Makers Academy final project five weeks into learning JavaScript, I completed a project in full stack JavaScript including Angular, Node.js and Express. Node.js was not taught on the course and I managed to learn and build a fully functioning website with 
+For the Makers Academy final project five weeks into learning JavaScript, I completed a project in full stack JavaScript including Angular, Node.js and Express. Node.js and Express was not taught on the course and I managed to learn and build a fully functioning website using those frameworks within two weeks.
 
 ## Education
 
