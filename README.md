@@ -37,6 +37,6 @@ One of my biggest passions is music. I have had lessons in the piano and trumpet
 ## Experience
 
 **Terra Firma** (start_date to end_date)    
-* Organising a music library of over 4000 records .... ********  
+Organising a music library of over 4000 records .... ********  
 **Conifer Kennels** (start_date to end_date)   
-* Cleaning out the kennels and feeding and walking the dogs.
+Cleaning out the kennels and feeding and walking the dogs.
