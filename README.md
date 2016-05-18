@@ -1,6 +1,6 @@
 ## Yasmin Green
 
-I am a former Forensic Scientist, and am excited to start career as a web developer with a drive for learning. I recently completed bootcamp at Makers Academy going from only knowing the very basics of the Ruby language to building fully functional websites with multiple coding languages and frameworks in twelve weeks.
+I am a former forensic scientist, and am excited to start career as a web developer with a drive for learning. I recently completed bootcamp at Makers Academy going from only knowing the very basics of the Ruby language to building fully functional websites with multiple coding languages and frameworks in twelve weeks.
 
 ## Skills
 
