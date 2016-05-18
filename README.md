@@ -4,7 +4,7 @@ I am a former forensic scientist, and am excited to start career as a web develo
 
 ## Skills
 
-#### Communication and approachability
+#### Communication and approachability MAKE MORE PERSONAL*********
 
 Communication is incredibly important and I am confident in communicating my thoughts whether it be revealing that I do not understand something, something I feel like my team or I could improve on, or areas that went well. In addition I try to encourage my team members to communicate more by giving them a safe space to talk about their thoughts.
 
@@ -18,19 +18,25 @@ For the Makers Academy final project five weeks into learning JavaScript, I comp
 
 #### Makers Academy (February 2015 to May 2015)
 
-* A twelve week bootcamp which focuses on pair programming,
+* A twelve week bootcamp which focuses on pair programming, ********
+
+### Shillington College (September 2015 to December 2015)
+
+* An intense 12 week course on graphic design
+* Areas included both print design and web design
+* Tools used included Adobe Indesign, Photoshop and Illustrator.
 
 #### University of Lincoln (2012 to 2015)
 
-- Forensic Science BSc
-- 1st Class Honours
+* Forensic Science BSc, 1st class honours.
+* TALK ABOUT ATTENTION TO DETAIL AND METHODOLOGY*********
 
 #### Hobbies and interests
 One of my biggest passions is music. I have had lessons in the piano and trumpet and have taught myself the guitar.
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Terra Firma** (start_date to end_date)    
+* Organising a music library of over 4000 records .... ********  
+**Conifer Kennels** (start_date to end_date)   
+* Cleaning out the kennels and feeding and walking the dogs.
